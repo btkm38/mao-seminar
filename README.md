@@ -5,7 +5,7 @@ https://elmas3.github.io/mao-seminar/
 
 # member
 mao
-she
+haku
 wakaba
 
 # ディレクトリ構成
