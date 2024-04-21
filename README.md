@@ -6,7 +6,7 @@ https://elmas3.github.io/mao-seminar/
 # member
 mao
 she
-she
+wakaba
 
 # ディレクトリ構成
 ```
